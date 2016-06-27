@@ -10,7 +10,7 @@ namespace WebApplication1.Controllers
     {
         public ActionResult Index()
         {
-            var message = "Hi";
+            var message = "Adjusted Hi";
             return View();
         }
 
